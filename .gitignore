@@ -1,0 +1,12 @@
+/gradients
+/logs
+/wandb
+/models
+/ipynb_checkpoints
+/notebooks
+/indices
+/figs
+/datasets
+/models_ckpt1
+**/__pycache__/
+**/.ipynb_checkpoints/

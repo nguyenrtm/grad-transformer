@@ -1,0 +1,24 @@
+{
+  "models": [
+    {
+      "path": "Qwen/Qwen2.5-1.5B-Instruct",
+      "noise_boundary": 108.59
+    },
+    {
+      "path": "Qwen/Qwen2.5-3B-Instruct",
+      "noise_boundary": 316.0
+    },
+    {
+      "path": "Qwen/Qwen2.5-7B-Instruct",
+      "noise_boundary": 484.68
+    },
+    {
+      "path": "Qwen/Qwen2.5-14B-Instruct",
+      "noise_boundary": 689.37
+    }, 
+    {
+      "path": "Qwen/Qwen2.5-Coder-32B-Instruct",
+      "noise_boundary": 1059
+    }
+  ]
+}

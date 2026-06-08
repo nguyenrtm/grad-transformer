@@ -1,0 +1,45 @@
+{
+    "model_pairs": [
+      {
+        "small_model_path": "Qwen/Qwen2.5-1.5B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-3B-Instruct"
+      },
+      {
+        "small_model_path": "Qwen/Qwen2.5-1.5B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-7B-Instruct"
+      },
+      {
+        "small_model_path": "Qwen/Qwen2.5-1.5B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-14B-Instruct"
+      }, 
+      {
+        "small_model_path": "Qwen/Qwen2.5-1.5B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-32B-Instruct"
+      }, 
+      {
+        "small_model_path": "Qwen/Qwen2.5-3B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-7B-Instruct"
+      },
+      {
+        "small_model_path": "Qwen/Qwen2.5-3B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-14B-Instruct"
+      },
+      {
+        "small_model_path": "Qwen/Qwen2.5-3B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-32B-Instruct"
+      },
+      {
+        "small_model_path": "Qwen/Qwen2.5-7B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-14B-Instruct"
+      },
+      {
+        "small_model_path": "Qwen/Qwen2.5-7B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-32B-Instruct"
+      }, 
+      {
+        "small_model_path": "Qwen/Qwen2.5-14B-Instruct",
+        "large_model_path": "Qwen/Qwen2.5-32B-Instruct"
+      }
+    ]
+  }
+  
